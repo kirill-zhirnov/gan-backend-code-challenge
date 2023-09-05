@@ -1,6 +1,6 @@
 import {Request, Response} from 'express';
 import addresses from '../../addresses.json' ;
-import {ICity} from "../@types/city";
+import {ICity} from '../@types/city';
 
 export default function allCitiesAction(req: Request, res: Response) {
 	res.setHeader('Content-Type', 'application/json');
