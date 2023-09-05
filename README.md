@@ -9,3 +9,12 @@ Your api can load the required data from [here](addresses.json).
 In the distance calculations you can assume the earth is a perfect sphere and has a radius is 6371 km.
 
 Once you are done, please provide us with a link to a git repo with your code, ready to run.
+
+
+## How to run the server:
+
+`npm run start-server`
+
+## Then run the tests:
+
+`npm run start`
